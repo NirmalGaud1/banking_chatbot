@@ -1,5 +1,7 @@
 streamlit 
 google-generativeai 
-pypdf 
-numpy 
-faiss-cpu
+pypdf numpy 
+faiss-cpu 
+requests 
+pdf2image 
+pytesseract
